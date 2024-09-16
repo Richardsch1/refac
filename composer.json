@@ -1,0 +1,20 @@
+{
+    "name": "rick/refactory",
+    "description": "refactorizacion richard",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "RichardSotoChuchullo",
+            "email": "richardmgx100pre@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+
+    }
+    
+}
